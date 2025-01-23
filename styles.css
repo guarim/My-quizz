@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#login-section, #quiz-section, #results-section {
+    margin-bottom: 20px;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.question img {
+    max-width: 100%;
+    height: auto;
+}

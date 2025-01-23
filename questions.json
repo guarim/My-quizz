@@ -1,0 +1,16 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "choices": ["Paris", "Londres", "Berlin", "Madrid"],
+        "correctAnswer": 0,
+        "points": 10,
+        "image": "paris.jpg"
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "choices": ["Atlantique", "Indien", "Pacifique", "Arctique"],
+        "correctAnswer": 2,
+        "points": 10,
+        "image": "ocean.jpg"
+    }
+]
